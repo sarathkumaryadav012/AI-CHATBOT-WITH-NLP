@@ -71,4 +71,4 @@ User-friendly error messages
 The file is production-ready and includes comprehensive documentation, error handling, and extensibility features. You can immediately start chatting with the bot or extend it with additional topics and capabilities!RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses.
 ## OUTPUT
 
-output.jpeg
+![Image](https://github.com/user-attachments/assets/b5210424-bccc-460c-b820-37c8e72b3013)
